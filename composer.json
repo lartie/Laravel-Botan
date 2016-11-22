@@ -1,0 +1,23 @@
+{
+    "name": "lartie/laravel-botan",
+    "description": "Laravel Botan ",
+    "keywords": ["laravel", "telegram api", "telegram", "botan", "appmetrica"],
+    "type": "library",
+    "homepage": "https://github.com/lartie/laravel-botan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artie",
+            "email": "log.wil.log@gmail.com",
+            "homepage": "https://github.com/lartie"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LArtie\\LaravelBotan\\": "src"
+        }
+    }
+}
